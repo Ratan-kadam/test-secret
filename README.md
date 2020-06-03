@@ -12,3 +12,10 @@ Solution -
 Referer tag & URL restriction.
 
 This project demonstrate the how the exposed token is secured with the Referer tag & URL restriction.
+
+1. Token copied from the webpage source code and used to run local machine - 
+==> The token worked successfully without any issue. (you hacked the service successfully !!).
+
+![image](https://user-images.githubusercontent.com/8684384/83683488-79d5b880-a5b3-11ea-8ad1-86a1766c9c61.png)
+
+
